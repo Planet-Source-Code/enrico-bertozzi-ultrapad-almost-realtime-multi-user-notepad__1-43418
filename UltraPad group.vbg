@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=Quad_Edit.vbp
+StartupProject=Quad_Edit_Server.vbp
